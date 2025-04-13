@@ -1,0 +1,72 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 257,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.678802,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "new clean slate",
+            "sentiment": {
+                "score": -0.678802,
+                "label": "negative"
+            },
+            "relevance": 0.895108,
+            "count": 1
+        },
+        {
+            "text": "face",
+            "sentiment": {
+                "score": -0.678802,
+                "label": "negative"
+            },
+            "relevance": 0.603039,
+            "count": 1
+        },
+        {
+            "text": "place",
+            "sentiment": {
+                "score": -0.678802,
+                "label": "negative"
+            },
+            "relevance": 0.587185,
+            "count": 1
+        },
+        {
+            "text": "tales",
+            "sentiment": {
+                "score": -0.678802,
+                "label": "negative"
+            },
+            "relevance": 0.578386,
+            "count": 1
+        },
+        {
+            "text": "fables",
+            "sentiment": {
+                "score": -0.678802,
+                "label": "negative"
+            },
+            "relevance": 0.578247,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.248856,
+                "joy": 0.453354,
+                "fear": 0.072537,
+                "disgust": 0.023908,
+                "anger": 0.074313
+            }
+        }
+    }
+}

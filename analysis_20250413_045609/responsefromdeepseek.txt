@@ -1,0 +1,66 @@
+### **Análise Detalhada dos Resultados**  
+
+#### **1. Dados Gerais**  
+- **Idioma:** Inglês (en).  
+- **Unidades de texto:** 1 (texto curto).  
+- **Caracteres analisados:** 296 (texto relativamente breve).  
+- **Recursos utilizados:** 3 (análise de sentimento, palavras-chave e emoções).  
+
+---
+
+#### **2. Análise de Sentimento**  
+- **Pontuação do sentimento:** **-0.770211** (fortemente negativo, próximo de -1).  
+- **Classificação principal:** **"Negative"** (negativo).  
+
+**Interpretação:**  
+O texto analisado transmite uma carga emocional predominantemente negativa, indicando insatisfação, frustração ou tristeza.  
+
+---
+
+#### **3. Emoções Detectadas**  
+O documento apresenta as seguintes emoções em ordem de predominância:  
+1. **Tristeza (Sadness):** **0.58563** (alto) → Indica melancolia ou desânimo.  
+2. **Medo (Fear):** **0.163222** (moderado) → Sugere ansiedade ou preocupação.  
+3. **Raiva (Anger):** **0.073857** (baixo) → Pode indicar frustração ou irritação.  
+4. **Nojo (Disgust):** **0.022122** (muito baixo) → Pouca relevância.  
+5. **Alegria (Joy):** **0.029584** (quase ausente) → Poucos elementos positivos.  
+
+**Conclusão emocional:** O texto reflete um estado de **tristeza profunda**, com nuances de **medo** e **raiva contida**.  
+
+---
+
+#### **4. Palavras-Chave Relevantes**  
+Duas palavras-chave se destacam:  
+1. **"secrets 'cause"**  
+   - **Sentimento:** **-0.891309** (extremamente negativo).  
+   - **Relevância:** **0.637846** (alta).  
+   - **Interpretação:** Sugere que segredos ou omissões estão causando desconforto ou conflito.  
+
+2. **"edge"**  
+   - **Sentimento:** **-0.840766** (fortemente negativo).  
+   - **Relevância:** **0.539584** (moderada).  
+   - **Interpretação:** Pode indicar estar à beira de algo ruim (ex.: "on the edge" = à beira de um colapso).  
+
+**Conclusão lexical:** As palavras-chave reforçam a negatividade, associada a **segredos, tensão e um sentimento de estar no limite**.  
+
+---
+
+### **Sugestões para Melhorar o Sentimento Negativo**  
+1. **Identificar a causa raiz:**  
+   - Se o texto é uma crítica ou reclamação, buscar resolver o problema mencionado.  
+   - Se for um relato pessoal, refletir sobre os motivos da tristeza/medo.  
+
+2. **Equilibrar as emoções:**  
+   - Introduzir elementos positivos (ex.: gratidão, esperança) para contrabalançar a negatividade.  
+
+3. **Comunicação aberta:**  
+   - Se "segredos" são um problema, considerar uma abordagem mais transparente para reduzir conflitos.  
+
+4. **Gerenciamento do estresse:**  
+   - Se "edge" indica tensão, técnicas de relaxamento ou apoio emocional podem ajudar.  
+
+---
+
+### **Resumo Final**  
+O texto analisado é **intensamente negativo**, com destaque para **tristeza, medo e raiva**. Palavras como **"secrets 'cause"** e **"edge"** sugerem **conflitos internos ou relacionamentos tensos**.  
+**Ação recomendada:** Trabalhar na resolução das causas dessas emoções, buscar apoio e adicionar perspectivas mais positivas ao discurso.

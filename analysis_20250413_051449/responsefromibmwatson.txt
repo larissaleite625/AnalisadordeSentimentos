@@ -1,0 +1,63 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 138,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": 0.478589,
+            "label": "positive"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "nose",
+            "sentiment": {
+                "score": 0.478589,
+                "label": "positive"
+            },
+            "relevance": 0.811719,
+            "count": 1
+        },
+        {
+            "text": "potions",
+            "sentiment": {
+                "score": 0.478589,
+                "label": "positive"
+            },
+            "relevance": 0.658101,
+            "count": 1
+        },
+        {
+            "text": "focus",
+            "sentiment": {
+                "score": 0.478589,
+                "label": "positive"
+            },
+            "relevance": 0.410237,
+            "count": 1
+        },
+        {
+            "text": "feeling",
+            "sentiment": {
+                "score": 0.478589,
+                "label": "positive"
+            },
+            "relevance": 0.388282,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.12353,
+                "joy": 0.20465,
+                "fear": 0.324652,
+                "disgust": 0.028608,
+                "anger": 0.047525
+            }
+        }
+    }
+}

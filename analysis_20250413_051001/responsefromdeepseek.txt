@@ -1,0 +1,57 @@
+### Análise Detalhada dos Resultados
+
+#### **1. Uso e Estrutura do Texto**
+- **Unidades de Texto (text_units):** 1 (um único bloco de texto analisado).  
+- **Caracteres (text_characters):** 174 (texto curto, como uma frase ou parágrafo).  
+- **Recursos (features):** 3 (sentimento, palavras-chave e emoções foram analisados).  
+
+#### **2. Sentimento Geral**
+- **Pontuação (score):** -0.86 (próximo de -1, indicando **sentimento fortemente negativo**).  
+- **Label:** "negative" (negativo).  
+- **Contexto:** O texto transmite uma carga emocional intensamente negativa, possivelmente relacionada a angústia, medo ou desespero.  
+
+#### **3. Palavras-Chave e Seus Sentimentos**  
+As palavras-chave mais relevantes reforçam a negatividade:  
+- **"Demons" (demônios):**  
+  - Sentimento: -0.65 (negativo).  
+  - Relevância: 0.59 (alta).  
+  - Sugestão: Pode simbolizar conflitos internos, culpa ou adversidades percebidas como incontroláveis.  
+- **"Feeling" (sentimento):**  
+  - Sentimento: -0.88 (muito negativo).  
+  - Relevância: 0.58 (alta).  
+  - Sugestão: Indica uma ênfase em emoções subjetivas, potencialmente associadas a dor ou vulnerabilidade.  
+
+#### **4. Análise de Emoções Dominantes**  
+O texto apresenta uma carga emocional complexa, com destaque para:  
+- **Medo (fear):** 0.54 (dominante).  
+- **Tristeza (sadness):** 0.30.  
+- **Raiva (anger) e Nojo (disgust):** Presentes em menor intensidade.  
+- **Alegria (joy):** Quase ausente (0.06).  
+
+**Interpretação:** O tom é de **desespero ou ansiedade**, com foco em emoções paralisantes (medo) e melancolia (tristeza). A baixa alegria sugere falta de esperança ou soluções no contexto.  
+
+---
+
+### **Sugestões para Melhorar o Sentimento Negativo**  
+1. **Identificar Gatilhos:**  
+   - Se o texto é pessoal (ex.: diário, música), refletir sobre as causas dos "demônios" ou sentimentos negativos. Escrever sobre eles pode ajudar a processar as emoções.  
+
+2. **Reestruturação Cognitiva:**  
+   - Substituir palavras-chave negativas por termos mais neutros ou positivos. Ex.:  
+     - "Demons" → "Desafios" ou "Obstáculos".  
+     - "Feeling" → "Experiência" ou "Aprendizado".  
+
+3. **Equilíbrio Emocional:**  
+   - Incluir elementos de **esperança** ou **ação** no texto. Ex.:  
+     - "Apesar do medo, sigo em frente."  
+     - "Reconheço minha tristeza, mas busco apoio."  
+
+4. **Práticas Externas:**  
+   - Se aplicável a um contexto real, sugerir atividades para reduzir o medo e a tristeza:  
+     - Meditação, terapia ou diálogo com pessoas de confiança.  
+     - Consumo de conteúdo inspirador (ex.: músicas, poemas com mensagens positivas).  
+
+---
+
+### **Conclusão**  
+O texto analisado é marcado por **emoções negativas intensas**, especialmente medo e tristeza, com linguagem simbólica ("demônios") que reflete conflitos internos. Para transformar essa energia, recomenda-se trabalhar a ressignificação das palavras-chave e introduzir perspectivas de superação. Se for um conteúdo criativo (ex.: letra de música), ajustes no tom podem torná-lo mais catártico ou inspirador. Caso reflita um estado emocional real, buscar apoio profissional ou redes de suporte é essencial.

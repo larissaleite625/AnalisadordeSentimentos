@@ -1,0 +1,45 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 296,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.770211,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "secrets 'cause",
+            "sentiment": {
+                "score": -0.891309,
+                "label": "negative"
+            },
+            "relevance": 0.637846,
+            "count": 1
+        },
+        {
+            "text": "edge",
+            "sentiment": {
+                "score": -0.840766,
+                "label": "negative"
+            },
+            "relevance": 0.539584,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.58563,
+                "joy": 0.029584,
+                "fear": 0.163222,
+                "disgust": 0.022122,
+                "anger": 0.073857
+            }
+        }
+    }
+}

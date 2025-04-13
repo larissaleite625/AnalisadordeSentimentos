@@ -1,0 +1,49 @@
+### Análise Detalhada dos Resultados
+
+#### **1. Dados Gerais**
+- **Idioma**: O texto está em inglês ("en").
+- **Tamanho do Texto**: 174 caracteres, divididos em 1 unidade de texto.
+- **Recursos Utilizados**: A API utilizou 3 recursos para a análise (sentimento, palavras-chave e emoções).
+
+---
+
+#### **2. Análise de Sentimento**
+- **Pontuação do Sentimento**: -0.861952 (próximo de -1, indicando **sentimento fortemente negativo**).
+- **Classificação Principal**: "negative" (negativo).
+- **Palavras-Chave Relacionadas ao Sentimento**:
+  - **"demons"** (demônios): 
+    - Sentimento: -0.647963 (negativo).
+    - Relevância: 0.593 (alta influência no texto).
+  - **"feeling"** (sentimento):
+    - Sentimento: -0.876479 (muito negativo).
+    - Relevância: 0.585 (alta influência).
+
+**Insight**: O texto transmite uma carga emocional pesada, com foco em sentimentos negativos como angústia ou desespero, possivelmente ligados a conflitos internos ("demons") ou uma experiência emocional difícil ("feeling").
+
+---
+
+#### **3. Análise de Emoções**
+As emoções predominantes no texto são:
+- **Medo (Fear)**: 0.54187 (o mais alto, indicando forte presença de ansiedade ou temor).
+- **Tristeza (Sadness)**: 0.300095 (significativo, mas menos intenso que o medo).
+- **Raiva (Anger)**: 0.056627 (presente, mas não dominante).
+- **Nojo (Disgust)**: 0.031866 (mínimo).
+- **Alegria (Joy)**: 0.066306 (quase inexistente).
+
+**Insight**: O texto reflete um estado emocional dominado por **medo e tristeza**, sugerindo um cenário de insegurança, preocupação ou até mesmo pânico. A quase ausência de alegria reforça o tom sombrio.
+
+---
+
+#### **4. Sugestões para Melhorar o Sentimento Negativo**
+Se o texto for uma mensagem, letra de música ou conteúdo que deseja ser mais equilibrado, considere:
+1. **Adicionar Elementos de Esperança**: Introduzir palavras-chave como "superação", "força" ou "mudança" para equilibrar o tom.
+2. **Reduzir Termos Extremamente Negativos**: Substituir "demons" por metáforas menos intensas (ex.: "sombra" ou "desafio").
+3. **Incluir Emoções Positivas**: Mesclar emoções como "confiança" ou "paz" para criar contraste.
+4. **Contextualizar a Negatividade**: Se for intencional (ex.: arte ou crítica), explicitar o propósito para evitar mal-entendidos.
+
+---
+
+#### **5. Conclusão**
+O texto é **profundamente negativo**, com ênfase em medo e tristeza, reforçado por termos como "demons" e "feeling". Para torná-lo mais neutro ou positivo, é necessário reequilibrar as palavras-chave e emoções dominantes. Se o objetivo for expressar dor ou conflito (ex.: música ou poesia), a análise confirma que a mensagem foi transmitida com intensidade. 
+
+**Recomendação Final**: Avalie se a negatividade é intencional. Caso não seja, revise a escolha de palavras e a estrutura para trazer mais nuances emocionais.

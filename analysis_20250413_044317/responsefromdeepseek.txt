@@ -1,0 +1,53 @@
+### **Análise Detalhada dos Resultados**  
+
+#### **1. Dados Gerais**  
+- **Idioma:** Inglês ("en").  
+- **Tamanho do Texto:** 115 caracteres (1 unidade de texto).  
+- **Recursos Utilizados:** 3 (sentimento, palavras-chave e emoções).  
+
+#### **2. Análise de Sentimento**  
+- **Pontuação Geral:** **-0.743** (fortemente negativo).  
+- **Classificação Principal:** **"Negative"**.  
+- **Sentimento das Palavras-Chave:** Todas as palavras-chave têm o mesmo sentimento negativo (**-0.743**), indicando um tom consistente de insatisfação, tristeza ou descontentamento.  
+
+#### **3. Emoções Predominantes**  
+O texto apresenta uma carga emocional intensa, com destaque para:  
+- **Tristeza (Sadness):** **0.735** (dominante).  
+- **Medo (Fear):** **0.051** (baixo, mas presente).  
+- **Raiva (Anger):** **0.027** (mínimo).  
+- **Nojo (Disgust):** **0.020** (quase irrelevante).  
+- **Alegria (Joy):** **0.033** (quase ausente).  
+
+Isso sugere um tom melancólico, possivelmente relacionado a perda, solidão ou desesperança.  
+
+#### **4. Palavras-Chave e Sua Relevância**  
+As palavras mais significativas no texto são:  
+1. **"Soul" (Alma) – Relevância: 0.812**  
+   - Forte carga negativa, possivelmente associada a sofrimento espiritual ou existencial.  
+2. **"Cemetery" (Cemitério) – Relevância: 0.699**  
+   - Indica temas de morte, luto ou finitude.  
+3. **"Core" (Núcleo) – Relevância: 0.615**  
+   - Pode sugerir uma dor profunda ou essência de algo negativo.  
+4. **"World" (Mundo) – Relevância: 0.604**  
+   - Visão pessimista sobre a realidade ou sociedade.  
+5. **"Love" (Amor) – Relevância: 0.571**  
+   - Sentimento negativo, talvez relacionado a desilusão ou perda afetiva.  
+
+#### **5. Possíveis Interpretações**  
+O texto parece expressar:  
+- **Dor emocional ou existencial.**  
+- **Luto ou perda** (evidenciado por "cemetery").  
+- **Desilusão com o amor ou a vida** (indicado por "love" negativo).  
+- **Visão sombria do mundo** ("world" com conotação negativa).  
+
+#### **6. Sugestões para Melhorar o Tom do Texto**  
+Se o objetivo é tornar o conteúdo mais positivo ou equilibrado, considere:  
+✅ **Incluir palavras de esperança:** Ex.: "healing" (cura), "light" (luz), "rebirth" (renascimento).  
+✅ **Reduzir termos associados à morte:** Substituir "cemetery" por algo como "memories" (memórias).  
+✅ **Adicionar contraste emocional:** Mesclar tristeza com resiliência (Ex.: "Even in sadness, there is strength").  
+✅ **Explorar narrativas de superação:** Se for um texto criativo, inclua um arco de transformação positiva.  
+
+#### **7. Conclusão**  
+O texto analisado tem uma **carga emocional profundamente negativa**, com ênfase em tristeza e temas como morte, desesperança e desilusão. Se a intenção for manter esse tom, ele cumpre bem o propósito. Caso queira suavizá-lo, ajustar as palavras-chave e introduzir elementos de esperança pode ajudar a equilibrar a mensagem.  
+
+🔹 **Recomendação Final:** Se esse texto for uma música, poema ou narrativa, ele provavelmente busca transmitir dor emocional de forma intensa. Se for um conteúdo que visa motivação ou engajamento, revisar o vocabulário para incluir mais positividade seria benéfico.

@@ -1,0 +1,73 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 149,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.522296,
+            "mixed": "1",
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "heaven's sake",
+            "sentiment": {
+                "score": -0.948297,
+                "label": "negative"
+            },
+            "relevance": 0.733191,
+            "count": 1
+        },
+        {
+            "text": "word",
+            "sentiment": {
+                "score": -0.948297,
+                "label": "negative"
+            },
+            "relevance": 0.653909,
+            "count": 1
+        },
+        {
+            "text": "hell",
+            "sentiment": {
+                "score": -0.948297,
+                "label": "negative"
+            },
+            "relevance": 0.576142,
+            "count": 1
+        },
+        {
+            "text": "bridge",
+            "sentiment": {
+                "score": -0.424665,
+                "label": "negative"
+            },
+            "relevance": 0.573838,
+            "count": 1
+        },
+        {
+            "text": "hearts",
+            "sentiment": {
+                "score": 0.596,
+                "label": "positive"
+            },
+            "relevance": 0.56659,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.455385,
+                "joy": 0.04338,
+                "fear": 0.118047,
+                "disgust": 0.044101,
+                "anger": 0.230034
+            }
+        }
+    }
+}

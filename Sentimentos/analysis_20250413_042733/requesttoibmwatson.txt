@@ -1,0 +1,8 @@
+{
+    "text": "I'm burning down every bridge we made\nI'll watch you choke on the hearts you break\nI'm bleeding out every word you said\nGo to hell, for heaven's sake",
+    "features": [
+        "sentiment",
+        "keywords",
+        "emotion"
+    ]
+}

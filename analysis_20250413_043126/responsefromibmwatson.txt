@@ -1,0 +1,72 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 149,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.868172,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "bridge",
+            "sentiment": {
+                "score": -0.868172,
+                "label": "negative"
+            },
+            "relevance": 0.668748,
+            "count": 1
+        },
+        {
+            "text": "heaven's sake",
+            "sentiment": {
+                "score": -0.868172,
+                "label": "negative"
+            },
+            "relevance": 0.629695,
+            "count": 1
+        },
+        {
+            "text": "hearts",
+            "sentiment": {
+                "score": -0.868172,
+                "label": "negative"
+            },
+            "relevance": 0.606896,
+            "count": 1
+        },
+        {
+            "text": "word",
+            "sentiment": {
+                "score": -0.868172,
+                "label": "negative"
+            },
+            "relevance": 0.582087,
+            "count": 1
+        },
+        {
+            "text": "hell",
+            "sentiment": {
+                "score": -0.868172,
+                "label": "negative"
+            },
+            "relevance": 0.550399,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.290484,
+                "joy": 0.015992,
+                "fear": 0.07255,
+                "disgust": 0.03937,
+                "anger": 0.390674
+            }
+        }
+    }
+}

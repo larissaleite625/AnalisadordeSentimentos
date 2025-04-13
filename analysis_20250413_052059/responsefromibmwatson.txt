@@ -1,0 +1,54 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 111,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.883317,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "day",
+            "sentiment": {
+                "score": -0.883317,
+                "label": "negative"
+            },
+            "relevance": 0.827545,
+            "count": 1
+        },
+        {
+            "text": "starting gun",
+            "sentiment": {
+                "score": -0.883317,
+                "label": "negative"
+            },
+            "relevance": 0.602538,
+            "count": 1
+        },
+        {
+            "text": "years",
+            "sentiment": {
+                "score": -0.883317,
+                "label": "negative"
+            },
+            "relevance": 0.343981,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.237998,
+                "joy": 0.075659,
+                "fear": 0.404519,
+                "disgust": 0.056267,
+                "anger": 0.044936
+            }
+        }
+    }
+}

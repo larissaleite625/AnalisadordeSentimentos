@@ -1,0 +1,17 @@
+usage:
+
+text_units: Quantidade de unidades de texto analisadas.
+
+text_characters: Número de caracteres do texto analisado. 
+
+features: Número de recursos utilizados pela API.
+
+sentiment:
+
+score: Pontuação do sentimento da música entre -1 (extremamente negativo) e 1 (extremamente positivo). 
+
+mixed: Indica se o texto apresenta sentimentos mistos ou ambíguos. 
+
+label: Classificação principal do sentimento (positive, negative, ou neutral). 
+
+language: O idioma identificado no texto analisado.

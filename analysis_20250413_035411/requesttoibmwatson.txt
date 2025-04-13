@@ -1,0 +1,8 @@
+{
+    "text": "Life is a waterfall We're one in the river and one again after the fall Swimming through the void, we hear the word We lose ourselves, but we find it all",
+    "features": [
+        "sentiment",
+        "keywords",
+        "emotion"
+    ]
+}

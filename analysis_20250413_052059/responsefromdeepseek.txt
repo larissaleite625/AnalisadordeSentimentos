@@ -1,0 +1,85 @@
+### **Análise Detalhada do Texto**  
+
+O texto analisado é um trecho da música *"Time"* do Pink Floyd, que reflete sobre a passagem do tempo e oportunidades perdidas. A análise de sentimentos e emoções revela um tom predominantemente negativo, com nuances emocionais significativas.  
+
+---  
+
+### **1. Sentimento Geral**  
+- **Score:** -0.883317 (fortemente negativo)  
+- **Label:** Negative  
+- **Mixed:** Não especificado, mas a pontuação indica uma negatividade consistente.  
+
+**Insight:** O texto transmite frustração e arrependimento, especialmente em relação ao tempo perdido ("Ten years have got behind you") e à falta de orientação ("No one told you when to run").  
+
+---  
+
+### **2. Emoções Predominantes**  
+O documento apresenta os seguintes níveis de emoção (em escala de 0 a 1):  
+- **Medo (Fear):** 0.404519 (mais alto)  
+- **Tristeza (Sadness):** 0.237998  
+- **Nojo (Disgust):** 0.056267  
+- **Raiva (Anger):** 0.044936  
+- **Alegria (Joy):** 0.075659 (muito baixo)  
+
+**Insight:**  
+- O **medo** é a emoção dominante, possivelmente relacionado à ansiedade sobre o futuro e ao sentimento de ter perdido oportunidades.  
+- A **tristeza** está presente, reforçando o lamento pela passagem do tempo.  
+- A quase ausência de **alegria** confirma o tom pessimista.  
+
+---  
+
+### **3. Palavras-Chave e Seus Sentimentos**  
+As palavras mais relevantes e seus sentimentos associados:  
+
+| **Palavra-Chave**  | **Sentimento (Score)** | **Relevância** | **Contagem** |  
+|-------------------|----------------------|--------------|------------|  
+| **day**          | -0.883317 (Negative) | 0.827545     | 1          |  
+| **starting gun** | -0.883317 (Negative) | 0.602538     | 1          |  
+| **years**        | -0.883317 (Negative) | 0.343981     | 1          |  
+
+**Insight:**  
+- **"Day" e "years"** reforçam a ideia de tempo perdido.  
+- **"Starting gun"** (tiro de partida) simboliza oportunidades perdidas, aumentando o tom de frustração.  
+
+---  
+
+### **4. Sugestões para Melhorar o Sentimento Negativo**  
+Como o texto reflete ansiedade e arrependimento, algumas abordagens poderiam ajudar a ressignificar a mensagem:  
+
+✅ **Focar no presente:**  
+   - Enfatizar ações que podem ser tomadas agora, em vez de lamentar o passado.  
+   - Exemplo: *"Apesar do tempo perdido, ainda há chances de recomeçar."*  
+
+✅ **Transformar medo em motivação:**  
+   - Usar o sentimento de urgência como impulso para mudanças.  
+   - Exemplo: *"O medo de perder mais tempo pode ser um alerta para agir hoje."*  
+
+✅ **Adicionar esperança:**  
+   - Introduzir elementos de superação ou novos começos.  
+   - Exemplo: *"Mesmo que o tiro de partida tenha sido perdido, a corrida ainda não acabou."*  
+
+---  
+
+### **Conclusão**  
+O texto analisado tem uma carga emocional pesada, com **sentimento negativo dominante**, **medo como emoção principal** e **palavras-chave que reforçam a ideia de tempo perdido**.  
+
+**Recomendação para ajuste:**  
+Se o objetivo fosse tornar a mensagem mais equilibrada (sem perder a profundidade), poderiam ser incluídos elementos de **reflexão positiva** ou **ação proativa** para contrabalançar o pessimismo.  
+
+🔹 **Versão Rebalanceada (Exemplo):**  
+*"And then one day you find  
+Ten years have got behind you  
+But now you see the way  
+And you won’t miss the starting gun again."*  
+
+Isso mantém a reflexão sobre o tempo, mas adiciona um tom de aprendizado e determinação.  
+
+---  
+
+**Resumo Final:**  
+- **Sentimento:** Fortemente negativo.  
+- **Emoções:** Medo > Tristeza > Raiva/Nojo.  
+- **Palavras-chave:** "day", "starting gun", "years" (todas negativas).  
+- **Sugestão:** Adicionar perspectivas de ação ou esperança para equilibrar a mensagem.  
+
+Se o texto fosse parte de um contexto terapêutico ou motivacional, essa abordagem poderia ajudar a transformar a negatividade em um chamado para a ação.

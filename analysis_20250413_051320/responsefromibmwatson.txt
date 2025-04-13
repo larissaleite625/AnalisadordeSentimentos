@@ -1,0 +1,45 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 174,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.861952,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "demons",
+            "sentiment": {
+                "score": -0.647963,
+                "label": "negative"
+            },
+            "relevance": 0.593255,
+            "count": 1
+        },
+        {
+            "text": "feeling",
+            "sentiment": {
+                "score": -0.876479,
+                "label": "negative"
+            },
+            "relevance": 0.585326,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.300095,
+                "joy": 0.066306,
+                "fear": 0.54187,
+                "disgust": 0.031866,
+                "anger": 0.056627
+            }
+        }
+    }
+}

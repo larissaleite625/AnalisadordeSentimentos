@@ -1,0 +1,72 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 115,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.743024,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "Soul",
+            "sentiment": {
+                "score": -0.743024,
+                "label": "negative"
+            },
+            "relevance": 0.811719,
+            "count": 1
+        },
+        {
+            "text": "cemetery",
+            "sentiment": {
+                "score": -0.743024,
+                "label": "negative"
+            },
+            "relevance": 0.699247,
+            "count": 1
+        },
+        {
+            "text": "core",
+            "sentiment": {
+                "score": -0.743024,
+                "label": "negative"
+            },
+            "relevance": 0.615132,
+            "count": 1
+        },
+        {
+            "text": "world",
+            "sentiment": {
+                "score": -0.743024,
+                "label": "negative"
+            },
+            "relevance": 0.603694,
+            "count": 1
+        },
+        {
+            "text": "love",
+            "sentiment": {
+                "score": -0.743024,
+                "label": "negative"
+            },
+            "relevance": 0.571086,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.734844,
+                "joy": 0.032938,
+                "fear": 0.051009,
+                "disgust": 0.02047,
+                "anger": 0.026658
+            }
+        }
+    }
+}

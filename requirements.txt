@@ -1,0 +1,6 @@
+watson-developer-cloud
+openai
+ibm-watson
+flask
+python-dotenv
+
