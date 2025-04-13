@@ -1,0 +1,72 @@
+{
+    "usage": {
+        "text_units": 1,
+        "text_characters": 153,
+        "features": 3
+    },
+    "sentiment": {
+        "document": {
+            "score": -0.603118,
+            "label": "negative"
+        }
+    },
+    "language": "en",
+    "keywords": [
+        {
+            "text": "river",
+            "sentiment": {
+                "score": -0.603118,
+                "label": "negative"
+            },
+            "relevance": 0.831701,
+            "count": 1
+        },
+        {
+            "text": "void",
+            "sentiment": {
+                "score": -0.603118,
+                "label": "negative"
+            },
+            "relevance": 0.640865,
+            "count": 1
+        },
+        {
+            "text": "Life",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.621447,
+            "count": 1
+        },
+        {
+            "text": "word",
+            "sentiment": {
+                "score": -0.603118,
+                "label": "negative"
+            },
+            "relevance": 0.597225,
+            "count": 1
+        },
+        {
+            "text": "waterfall",
+            "sentiment": {
+                "score": 0,
+                "label": "neutral"
+            },
+            "relevance": 0.566587,
+            "count": 1
+        }
+    ],
+    "emotion": {
+        "document": {
+            "emotion": {
+                "sadness": 0.407816,
+                "joy": 0.439688,
+                "fear": 0.086087,
+                "disgust": 0.01167,
+                "anger": 0.026758
+            }
+        }
+    }
+}
